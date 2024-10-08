@@ -1,0 +1,50 @@
+/* Bakgrundsfärg för hela sidan */
+body {
+    background-color: lightgreen;
+    color: purple;
+}
+
+/* Rubrikstil */
+.rubrik {
+    color: tomato;
+    background-color: lightblue;
+    padding: 10px;
+    font-size: 2em;
+}
+
+/* Underrubrik stil */
+.underrubrik {
+    color: lightgreen;
+    background-color: purple;
+    padding: 10px;
+    font-size: 1.5em;
+}
+
+/* Stil för specifika ord */
+.tomato {
+    color: tomato;
+}
+
+.lightblue {
+    background-color: lightblue;
+}
+
+.lightgreen {
+    color: lightgreen;
+}
+
+.purple {
+    color: purple;
+}
+
+.purple-bg {
+    background-color: purple;
+}
+body{
+    background-image: url("./img/ek.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: fixed;
+    
+    
+}
